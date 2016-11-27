@@ -4,8 +4,8 @@ Tags: acf,woocommerce,custom,field,Advanced Custom Fields
 Requires at least: 4.3
 Tested up to: 4.6.1
 Stable tag: trunk
-License: Private
-License URI: https://www.codegrape.com/legal-information/pricing-licensing
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Displays  WooCommerce Product ACF fileds value in front end.
 
