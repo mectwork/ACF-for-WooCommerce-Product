@@ -36,6 +36,7 @@ function afwp_product_meta() {
 		{
 			foreach( $fields as $field_name => $field )
 			{
+				if ($field_name == '') continue;
 		?>
 				<span class="posted_in">
 					<?php echo $field['label'].': ';
