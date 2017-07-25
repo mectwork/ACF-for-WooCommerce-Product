@@ -7,10 +7,10 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Displays  WooCommerce Product ACF fileds value in front end.
+Displays WooCommerce Product ACF fields value in the front end.
 
 == Description ==
-ACF for WooCommerce Product plugin lets you display WooCommerce product ACF field in label value form in fornt end on single product age. This plugin is 100% compatible to Advanced Custom Fields
+ACF for WooCommerce Product plugin lets you display WooCommerce product ACF field in label value form in the front end on single product page. This plugin is 100% compatible to Advanced Custom Fields
 
 == Installation ==
 Download the ACF for WooCommerce plugin
@@ -19,7 +19,7 @@ Activate the plugin through the ‘Plugins’ menu in WordPress
 After installation, you will be  “Custom Fields” of ACF on single product page. 
 
 == Frequently Asked Questions ==
-Q. Is this theme comapatible to Woocommerce Theme?
+Q. Is this theme compatible to Woocommerce Theme?
 Yes.
 
 Q. Is this compatible with woocommerce?
